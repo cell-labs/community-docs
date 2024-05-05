@@ -1,8 +1,12 @@
 # community-docs
-The documents of community communications and the project managements
+
+The documents of community communications and project management.
 
 
-Weekly meetings👇
+The project 👉 [here](https://github.com/orgs/cell-labs/projects/1)
+
+
+### Weekly meetings👇
 
 [W05 2024-05-05](./weekly/week-2024-05-05.md)  
 
