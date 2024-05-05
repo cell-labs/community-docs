@@ -47,7 +47,7 @@ b. Integrated into a tool
 
 4.2 CKB Mock Toolchain
 - Mock Tx
--Dump Tx
+- Dump Tx
 - Simulation environment management
 
 Expected development cycle: **8 weeks**
